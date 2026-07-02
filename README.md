@@ -17,7 +17,6 @@
 
 <!-- ══════════════════ 3. CODE-BLOCK ABOUT ME ══════════════════ -->
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### 👨‍💻 About Me
 
@@ -91,17 +90,6 @@ public class SridharR : FullStackDeveloper
 <!-- ══════════════════ 5 & 6. GITHUB STATS + TOP LANGUAGES ══════════════════ -->
 
 ### 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Sridhar311">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sridhar311&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/Sridhar311">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridhar311&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
 
 <!-- ══════════════════ 7. STREAK STATS ══════════════════ -->
 
