@@ -120,7 +120,7 @@ public class SridharR : FullStackDeveloper
 ### 💼 Work Experience
 
 <details open>
-<summary><b>🏢 Softsuave Technologies</b> — Full Stack Developer Intern &nbsp;·&nbsp; <i>Feb 2026 – Present</i> &nbsp;·&nbsp; Chennai, Tamil Nadu, India 🇮🇳</summary>
+<summary><b>🏢 Softsuave Technologies</b> — Full Stack Developer Intern &nbsp;·&nbsp; <i>Feb 2026 – July 2026</i> &nbsp;·&nbsp; Chennai, Tamil Nadu, India 🇮🇳</summary>
 
 <br>
 
