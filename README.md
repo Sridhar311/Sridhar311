@@ -107,13 +107,6 @@ public class SridharR : FullStackDeveloper
 
 </div>
 
-<!-- ══════════════════ 9. TROPHY WALL ══════════════════ -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sridhar311&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-
-</div>
 
 <!-- ══════════════════ 10. WORK EXPERIENCE ══════════════════ -->
 
