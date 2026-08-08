@@ -111,7 +111,18 @@ public class SridharR : FullStackDeveloper
 <!-- ══════════════════ 10. WORK EXPERIENCE ══════════════════ -->
 
 ### 💼 Work Experience
+<details open>
+<summary><b>🏢 Rial.io</b> — Associate Engineer &nbsp;·&nbsp; <i>2026 – Present</i></summary>
 
+<br>
+
+> `Next.js` `React.js` `Go` `PostgreSQL`
+
+- 🧩 Building and maintaining full-stack features using **Next.js** and **React.js** on the frontend with a **Go** backend.
+- 🗄️ Designing and querying **PostgreSQL** schemas to support application data and business logic.
+- 🤝 Collaborating with cross-functional teams to ship production-grade features following modern SDLC practices.
+
+</details>
 <details open>
 <summary><b>🏢 Softsuave Technologies</b> — Full Stack Developer Intern &nbsp;·&nbsp; <i>Feb 2026 – July 2026</i> &nbsp;·&nbsp; Chennai, Tamil Nadu, India 🇮🇳</summary>
 
